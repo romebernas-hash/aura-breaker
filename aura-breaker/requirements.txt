@@ -1,0 +1,8 @@
+# Tested with Python 3.12 (3.10-3.12 recommended on macOS).
+# Versions below are minimums; the exact versions this project was tested with
+# are listed in README.md. MediaPipe must provide the Tasks FaceLandmarker API.
+mediapipe>=0.10.14
+opencv-contrib-python>=4.8
+numpy>=1.24
+pygame>=2.5.2
+pytest>=7.0

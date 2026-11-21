@@ -1,0 +1,25 @@
+{
+  "fullscreen": false,
+  "quality": "standard",
+  "muted": false,
+  "master_volume": 0.8,
+  "volumes": {
+    "music": 0.5,
+    "transform": 0.9,
+    "charge": 0.9,
+    "beam": 0.9,
+    "impact": 0.9,
+    "shield": 0.9,
+    "result": 0.9
+  },
+  "camera_index": 0,
+  "mirror": true,
+  "show_landmarks": false,
+  "face_controls": true,
+  "invert_tilt": false,
+  "sensitivity": 1.0,
+  "hold_ms": 120,
+  "brow_action": "auto",
+  "calibration": null,
+  "first_run_done": true
+}
